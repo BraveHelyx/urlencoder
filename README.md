@@ -1,5 +1,5 @@
 # urlencoder.py
-Performs a _full__ URL encoding of an input file or string. Outputs to stdout.
+Performs a _full_ URL encoding of an input file or string. Outputs to stdout.
 
 ## Usage
 ```
